@@ -27,7 +27,7 @@ namespace plantwebsolution
             {
                 composite.StringValue += "Suffix";
             }
-            return composite;
+            return composite;      
         }
     }
 }
